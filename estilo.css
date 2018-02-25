@@ -89,6 +89,18 @@ nav.navbar-transparent {
 	color: black;
 }
 
+
+/* Secao de Servicos*/
+#servicos {
+	background: white;
+	padding-top: 20px;
+	padding-bottom: 20px; 
+}
+
+.albuns {
+	padding: 10px 0px 10px 0px
+}
+
 /* ========================== Tipografia ========================== */
 h1 {
 	font-size: 100px;

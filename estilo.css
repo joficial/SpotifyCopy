@@ -7,7 +7,11 @@
 /* ========================== Layout ========================== */
 
 body{
-	background: grey;
+	border: 1px solid red;
+	background: url('imagens/capa.png'), 
+				url('imagens/ruido.png'),
+				linear-gradient(50deg, #ff4169, #7c26f8);
+	background-attachment: fixed;
 }
 
 /* -- Barra de navegação -- */
@@ -37,6 +41,10 @@ nav.navbar-transparent {
 	background: white;
 	margin: 16px 10px;
 }
+
+/*Imagem de capa*/
+
+
 
 
 /* ========================== Tipografia ========================== */
